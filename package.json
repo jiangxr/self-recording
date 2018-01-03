@@ -1,0 +1,30 @@
+{
+  "name": "self-recording",
+  "version": "1.0.0",
+  "description": "一套用来记录个人信息的服务",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangxr/self-recording.git"
+  },
+  "author": "jcw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangxr/self-recording/issues"
+  },
+  "homepage": "https://github.com/jiangxr/self-recording#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "lodash": "^4.6.1",
+    "moment": "^2.20.1"
+  }
+}
